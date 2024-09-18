@@ -7,12 +7,12 @@ Untuk menggunakan project ini, hal yang harus dilakukan:<br>
 
 1. Clone the Repository:
    ```bash 
-   git clone https://github.com/raissarahmani/jsdom.git
+   git clone https://github.com/raissarahmani/html-css.git
    ```
 
 2. Navigate to Project Directory:
     ```bash 
-   cd jsdom
+   cd html-css
    ```
 
 3. Open the file: <br>
